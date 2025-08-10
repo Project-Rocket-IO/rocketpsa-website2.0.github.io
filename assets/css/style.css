@@ -2858,6 +2858,11 @@ hr {
   max-width: 180px;
 }
 
+.cs_site_branding img {
+  width: 90px; 
+  height: auto; 
+}
+
 .cs_site_header {
   position: absolute;
   width: 100%;
